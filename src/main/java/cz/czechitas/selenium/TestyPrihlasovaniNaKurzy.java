@@ -1,6 +1,5 @@
 package cz.czechitas.selenium;
 
-import com.google.errorprone.annotations.Var;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
